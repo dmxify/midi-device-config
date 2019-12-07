@@ -1,0 +1,27 @@
+{
+  "name": "midi-device-config",
+  "version": "0.1.0",
+  "description": "Save and load MidiDevice class instance configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmxify/midi-device-config.git"
+  },
+  "keywords": [
+    "dmxify",
+    "midi",
+    "config"
+  ],
+  "author": "Jason Banfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmxify/midi-device-config/issues"
+  },
+  "homepage": "https://github.com/dmxify/midi-device-config#readme",
+  "dependencies": {
+    "ini": "^1.3.5"
+  }
+}
