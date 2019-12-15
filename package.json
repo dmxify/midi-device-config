@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/dmxify/midi-device-config#readme",
   "dependencies": {
-    "ini": "^1.3.5"
+    "electron-store": "^5.1.0"
   }
 }
